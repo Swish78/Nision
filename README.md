@@ -1,4 +1,4 @@
-# Nision.s.s : ML Model Management and Deployment Platform
+# Nision : ML Model Management and Deployment Platform
 
 ## Overview
 Nision.s is a cloud-based SaaS application designed to manage, version, optimize, and deploy machine learning models efficiently. The platform aims to streamline the machine learning model lifecycle, enhancing collaboration among data science teams and improving model deployment efficiency.
